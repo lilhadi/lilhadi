@@ -8,20 +8,41 @@
 
 Ten years of design across 99+ brands, and an indie Apple developer the rest of the time. Branding, product design and interaction work by day. Native Mac and iOS apps at night, solo, from the first pixel to the App Store listing.
 
-Most of what I build lives in private repos, so the graph below is a lot quieter than the work.
+<br>
 
-### On the App Store
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://apps.apple.com/us/app/poptask-structured-to-do-list/id6759860524"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/40/c8/7640c8e4-9452-6b8c-0d68-1af54c1c8936/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/256x256bb.jpg" width="96" alt="PopTask"></a>
+<br><br><b>PopTask</b><br>
+<sub>Mac menu bar, iPhone, iPad</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://apps.apple.com/us/app/eluna-ai-period-cycle-tracker/id6760151821"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/12/df/7112dfff-3cb5-113f-3629-b568a4d0768f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/256x256bb.jpg" width="96" alt="eluna"></a>
+<br><br><b>eluna</b><br>
+<sub>iPhone, iPad, Mac</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://apps.apple.com/us/app/click-flick-openly-ai-browser/id6779136087?mt=12"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/f4/f9/8af4f936-6565-1652-37ab-af8a0d2ffcde/AppIcon-0-0-85-220-0-6-0-2x.png/256x256bb.png" width="96" alt="Click flick"></a>
+<br><br><b>Click flick</b><br>
+<sub>Mac</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://apps.apple.com/us/app/dab-color-picker-eyedropper/id6767812436?mt=12"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4b/46/cb4b4675-7cea-3b48-3192-a8df1fd64610/dab_v1.2-0-0-85-220-0-0-6-0-2x.png/256x256bb.png" width="96" alt="Dab"></a>
+<br><br><b>Dab</b><br>
+<sub>Mac menu bar</sub>
+</td>
+</tr>
+</table>
 
-| | |
-| :-- | :-- |
-| **[PopTask](https://apps.apple.com/us/app/poptask-structured-to-do-list/id6759860524)** | AI task manager for the Mac menu bar, iPhone and iPad. Say something messy, get a real task back in about three seconds. |
-| **[eluna](https://apps.apple.com/us/app/eluna-ai-period-cycle-tracker/id6760151821)** | AI period and cycle tracker. The whole interface shifts with the phase of her cycle. Built with my wife. |
-| **[Click flick](https://apps.apple.com/us/app/click-flick-openly-ai-browser/id6779136087?mt=12)** | Link router for Mac. Click a link, it opens in the browser that link belongs in. Eight languages. |
-| **[Dab](https://apps.apple.com/us/app/dab-color-picker-eyedropper/id6767812436?mt=12)** | Color picker and eyedropper for Mac, from the menu bar. |
+**PopTask** turns something messy you typed or said into a real task, with the date, time and recurrence figured out, in about three seconds.
+**eluna** is a period and cycle tracker whose whole interface shifts with the phase of her cycle. Built with my wife.
+**Click flick** sends every link you click to the browser that link actually belongs in.
+**Dab** is a color picker and eyedropper that lives in the menu bar.
 
 ### In the workshop
 
-**Fig** is an AI money manager for iPhone, iPad, Mac and Watch. Every other money app is a tracker that shows you the past. Fig answers "can I actually afford this, and if not, when?" with a verdict, a date, and the math on screen. A deterministic Swift engine computes every number and the AI only reads, routes and narrates it. Your data stays in your own iCloud.
+**Fig**, an AI money manager for iPhone, iPad, Mac and Watch. Every other money app is a tracker that shows you the past. Fig answers "can I actually afford this, and if not, when?" with a verdict, a date, and the math on screen. A deterministic Swift engine computes every number and the AI only reads, routes and narrates it. Your data stays in your own iCloud.
 
 ### Work
 
