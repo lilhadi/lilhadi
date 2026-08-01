@@ -1,3 +1,6 @@
+<!-- This is the profile README. It renders on github.com/lilhadi.
+     Edit README.md, commit, push. The header art lives in assets/. -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilhadi/lilhadi/main/assets/header-dark.svg">
   <img src="https://raw.githubusercontent.com/lilhadi/lilhadi/main/assets/header-light.svg" alt="Abdul Rehman Haider, Senior Product Designer at WKK Group, Jeddah, Saudi Arabia">
