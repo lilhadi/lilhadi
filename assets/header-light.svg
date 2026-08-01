@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 268" width="1200" height="268" role="img" aria-label="Abdul Rehman Haider, product designer and indie Apple developer, Jeddah">
+  <rect width="1200" height="268" fill="#ffffff"/>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="2" y="104" font-size="72" font-weight="600" fill="#0d1117">Abdul Rehman Haider</text>
+    <text x="4" y="152" font-size="27" font-weight="400" fill="#59636e">i make sure my work doesn&#39;t need explanation</text>
+    <line x1="2" y1="196" x2="1198" y2="196" stroke="#d8dee4" stroke-width="1.5"/>
+    <text x="4" y="234" font-size="22" font-weight="400" fill="#59636e">Senior Product Designer at WKK Group</text>
+    <text x="1196" y="234" font-size="22" font-weight="400" fill="#59636e" text-anchor="end">Jeddah, Saudi Arabia</text>
+  </g>
+</svg>
