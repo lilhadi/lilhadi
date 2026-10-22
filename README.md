@@ -40,10 +40,6 @@ Ten years of design across 99+ brands, and an indie Apple developer the rest of 
 **flick** sends every link you click to the browser that link actually belongs in.
 **Dab** is a color picker and eyedropper that lives in the menu bar.
 
-### In the workshop
-
-**Fig**, an AI money manager for iPhone, iPad, Mac and Watch. Every other money app is a tracker that shows you the past. Fig answers "can I actually afford this, and if not, when?" with a verdict, a date, and the math on screen. A deterministic Swift engine computes every number and the AI only reads, routes and narrates it. Your data stays in your own iCloud.
-
 ### Work
 
 Product and web work I own end to end, mostly bilingual English and Arabic with full RTL.
