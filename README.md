@@ -23,8 +23,8 @@ Ten years of design across 99+ brands, and an indie Apple developer the rest of 
 <sub>iPhone, iPad, Mac</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://apps.apple.com/us/app/click-flick-openly-ai-browser/id6779136087?mt=12"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/f4/f9/8af4f936-6565-1652-37ab-af8a0d2ffcde/AppIcon-0-0-85-220-0-6-0-2x.png/256x256bb.png" width="96" alt="Click flick"></a>
-<br><br><b>Click flick</b><br>
+<a href="https://apps.apple.com/us/app/click-flick-openly-ai-browser/id6779136087?mt=12"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/f4/f9/8af4f936-6565-1652-37ab-af8a0d2ffcde/AppIcon-0-0-85-220-0-6-0-2x.png/256x256bb.png" width="96" alt="flick"></a>
+<br><br><b>flick</b><br>
 <sub>Mac</sub>
 </td>
 <td align="center" width="25%">
@@ -37,7 +37,7 @@ Ten years of design across 99+ brands, and an indie Apple developer the rest of 
 
 **PopTask** turns something messy you typed or said into a real task, with the date, time and recurrence figured out, in about three seconds.
 **eluna** is a period and cycle tracker whose whole interface shifts with the phase of her cycle. Built with my wife.
-**Click flick** sends every link you click to the browser that link actually belongs in.
+**flick** sends every link you click to the browser that link actually belongs in.
 **Dab** is a color picker and eyedropper that lives in the menu bar.
 
 ### In the workshop
@@ -63,4 +63,4 @@ Product and web work I own end to end, mostly bilingual English and Arabic with 
 
 ### Elsewhere
 
-[Portfolio](https://abdulrehmanhaider.com) · [LinkedIn](https://www.linkedin.com/in/arehaider/) · [Behance](https://www.behance.net/lilhadi) · [500px](https://500px.com/lilhadii) · [haadie@outlook.com](mailto:haadie@outlook.com)
+[Portfolio](https://abdulrehmanhaider.com), [LinkedIn](https://www.linkedin.com/in/arehaider/), [Behance](https://www.behance.net/lilhadi), [500px](https://500px.com/lilhadii), [haadie@outlook.com](mailto:haadie@outlook.com)
